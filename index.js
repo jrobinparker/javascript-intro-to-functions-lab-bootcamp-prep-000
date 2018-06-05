@@ -14,11 +14,11 @@ function logShout(shout) {
 
 function sayHiToGrandma(hello) {
   hello = "hello"
-  if (string.toUpperCase() === uppercase) {
+  if (hello.toUpperCase() === uppercase) {
     return "YES INDEED!"
-  } else if (string.toLowerCase() === lowercase) {
+  } else if (hello.toLowerCase() === lowercase) {
     return "I can\'t hear you!"
-  } else if (string = "I love you, Grandma.") {
+  } else if (hello = "I love you, Grandma.") {
     return love
   }
 }
