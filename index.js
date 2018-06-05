@@ -12,13 +12,11 @@ function logShout(shout) {
   console.log(shout)
 }
 
-function sayHiToGrandma(string) {
-  var uppercase = "HELLO"
-  var lowercase = "hello"
-  var love = "I love you, too."
-  if (uppercase === uppercase) {
+function sayHiToGrandma(hello) {
+  hello = "hello"
+  if (string.toUpperCase() === uppercase) {
     return "YES INDEED!"
-  } else if (lowercase === lowercase) {
+  } else if (string.toLowerCase() === lowercase) {
     return "I can\'t hear you!"
   } else if (string = "I love you, Grandma.") {
     return love
