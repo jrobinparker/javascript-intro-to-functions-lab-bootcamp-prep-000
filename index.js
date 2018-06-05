@@ -9,8 +9,7 @@ function whisper(string) {
 function logShout(shout) {
   shout = "hello"
   shout.toUpperCase
-  shout.spy
-  console.log(shout)
+  console.log(shout, spy)
 }
 
 
