@@ -10,7 +10,7 @@ function logShout(shout) {
   shout = "hello"
   spyOn = console.log(shout)
   shout.toUpperCase
-  spyOn()
+  spyOn
   console.log(shout)
 }
 
