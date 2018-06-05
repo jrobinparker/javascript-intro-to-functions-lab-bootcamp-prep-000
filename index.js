@@ -14,6 +14,7 @@ function logShout(shout) {
 
 function sayHiToGrandma(string) {
   var uppercase = "HELLO"
+  var lowercase = "hello"
   uppercase.toUpperCase() === uppercase
   return "YES INDEED!"
 }
