@@ -18,6 +18,6 @@ function sayHiToGrandma(greeting) {
   } else if (greeting === "hello") {
     return "I can\'t hear you!"
   } else if (greeting === "I love you, Grandma.") {
-    return love
+    return "I love you, too."
   }
 }
