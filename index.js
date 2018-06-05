@@ -13,12 +13,6 @@ function logShout(shout) {
 }
 
 function sayHiToGrandma(string) {
-  var lowercase = "!"
-  uppercase.toUpperCase() === uppercase
-  return "YES INDEED!"
-}
-
-function sayHiToGrandma(string) {
   var uppercase = "HELLO"
   uppercase.toUpperCase() === uppercase
   return "YES INDEED!"
